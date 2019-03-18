@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Nurface/VRInteraction/Demo/Demo_Interaction.unity
+- path: Assets/SchoolVR/Scene/School.unity
   isLoaded: 1
   isActive: 1

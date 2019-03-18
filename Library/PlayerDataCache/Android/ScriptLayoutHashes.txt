@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/home/condor/Documents/VR-School.apk
+/home/condor/Documents/VR-School (copy).apk
 SceneListBegin?
 Assets/SchoolVR/Scene/School.unity
 SceneListEnd?
@@ -120,6 +120,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.RandomAnimationPicker
 02493766ba0d073bd9e5d602a5878d4f Assembly-CSharp.dll:.iTween
 510cc3efae7a98c47821c057a3520257 Assembly-CSharp.dll:.NvrInteractiveUI
 e92db920d57ac541d3e54e7b634493d7 Assembly-CSharp.dll:.MaterialChangerMenu
