@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Nurface/VRInteraction/Demo/Demo_Interaction.unity
+  isLoaded: 1
+  isActive: 1
