@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:2:1-37:12
+MERGED from [:gvr:] /home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/AndroidManifest.xml:2:1-9:12
+MERGED from [:unitygvr:] /home/condor/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/be39f1919e91948f8bb1665dbd538acf/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:102-148
+	android:versionCode
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:2:149-189
+supports-screens
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-18:17
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:14:5-35:19
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:14:5-35:19
+	android:label
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:4:48-80
+	android:icon
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-47
+	android:banner
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:4:103-140
+	android:theme
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:4:141-179
+	android:isGame
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:4:81-102
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-145
+	android:label
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:146-177
+	android:hardwareAccelerated
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:360-395
+	android:configChanges
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:178-359
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-11:23
+action#android.intent.action.MAIN
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+category#com.google.intent.category.CARDBOARD
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:10:9-73
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:10:19-70
+meta-data#unityplayer.UnityActivity
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:12:7-82
+	android:value
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:12:59-79
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:12:18-58
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-75
+	android:value
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:17:51-72
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-50
+uses-feature#0x00020000
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-49
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-78
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-65
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:12:5-67
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:21:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-80
+uses-sdk
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] /home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] /home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] /home/condor/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/be39f1919e91948f8bb1665dbd538acf/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] /home/condor/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/be39f1919e91948f8bb1665dbd538acf/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:11:22-76
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:16:13-65
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:21:13-76
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:26:13-84
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:UnityAds:] /home/condor/.gradle/caches/transforms-1/files-1.1/UnityAds.aar/335a40583278304e24691abfc027f7a2/AndroidManifest.xml:31:13-73

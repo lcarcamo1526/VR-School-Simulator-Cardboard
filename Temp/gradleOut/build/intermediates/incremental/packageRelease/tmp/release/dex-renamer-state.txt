@@ -1,0 +1,4 @@
+#Mon Mar 18 10:14:35 COT 2019
+base.0=/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

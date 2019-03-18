@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/values-v19/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "148",
+                        "endColumns": "56",
+                        "endOffsets": "204"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

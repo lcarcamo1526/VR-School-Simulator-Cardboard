@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_back_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat",
+        "source": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-v17_back_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-ldrtl-v17/back_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-ldrtl-land-v17/back_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout_back_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout_transition_view.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-xxhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-xhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-xhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-v21_rippleable.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-v21/rippleable.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-ldrtl-land-v17/settings_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_front.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/be39f1919e91948f8bb1665dbd538acf/res/drawable-nodpi-v4/vr_icon_front.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-ldrtl-v17/settings_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_back.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/be39f1919e91948f8bb1665dbd538acf/res/drawable-nodpi-v4/vr_icon_back.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_settings_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-mdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-xxxhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout_settings_button.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout/settings_button.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-mdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_transition.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-hdpi-v4/transition.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_transition.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-mdpi-v4/transition.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout_ui_layer.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/home/condor/VR-School-Simulator-Cardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/home/condor/.gradle/caches/transforms-1/files-1.1/gvr.aar/36ce1656958de7ecbdaf0f24bad487ad/res/drawable-hdpi-v4/quantum_ic_close_white_24.png"
+    }
+]
